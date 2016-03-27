@@ -1,0 +1,9 @@
+﻿<resources>
+    <string name="app_name">Что надеть?</string>
+    <string name="action_settings">Настройки</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+	<string name="attention_on_start">Устанавливаю место нахождение, это может занять несколько секунд, подождите ....</string>
+    <string name="title_activity_first">FirstActivity</string>
+</resources>
